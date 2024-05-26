@@ -1,0 +1,29 @@
+.box1
+{
+    background-color:skyblue;
+    width: 550px;
+    height: 450px; 
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.box1a{
+    background-color: rgb(47, 229, 95);
+    width:450px;
+    height:150px;
+}
+
+
+.box2
+{
+    background-color:orange;
+    width: 300px;
+    height: 250px; 
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.box2a
+{
+    background-color:blue;
+    width: 100px;
+    height: 70px; 
+}
